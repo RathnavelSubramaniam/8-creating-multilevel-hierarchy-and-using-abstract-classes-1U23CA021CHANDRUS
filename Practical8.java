@@ -1,5 +1,5 @@
 // Animal.java
-public abstract class Animal {
+ublicublic abstract class Animal {
 // Basic attributes and methods including abstract sound method
 }
 
